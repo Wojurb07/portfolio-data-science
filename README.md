@@ -1,1 +1,1 @@
-Portfolio folder containing my personal and academic projects.
+Portfolio folder containing my personal and academic exercises.
